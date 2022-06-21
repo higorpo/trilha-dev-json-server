@@ -4,15 +4,15 @@
             "id": "224a68d0-d49a-4992-8b00-e93c0960d196",
             "title": "UI",
             "search": "ui",
-            "shortDescription": "Um quiz sobre UI que vai mudar sua vida!",
+            "short_description": "Um quiz sobre UI que vai mudar sua vida!",
             "description": "Esse quiz tem como objetivo testar os seus conhecimentos a respeito de UI. Será que você consegue acertar todas as questões? Mostre para seus amigos que você domina os conceitos de UI!!",
             "date": "2022-06-21 18:52",
-            "bannerImage": "https://sujeitoprogramador.com/wp-content/uploads/2020/12/uiDesign-1.png",
-            "questionsCount": 10,
+            "banner_image": "https://sujeitoprogramador.com/wp-content/uploads/2020/12/uiDesign-1.png",
+            "questions_count": 10,
             "difficulty": "easy",
-            "isAnswered": true,
-            "answeredDate": "2022-06-21 22:32",
-            "correctAnswersCount": 8,
+            "is_answered": true,
+            "answered_date": "2022-06-21 22:32",
+            "correct_answers_count": 8,
             "tag": "design"
         }
     ],
@@ -22,9 +22,9 @@
             "data": [
                 {
                     "id": "ebd8a80a-4ae0-4698-ade0-52aabc2eb98e",
-                    "correctAnswerIndex": 1,
-                    "questionText": "Pergunta de UI 01",
-                    "bannerImage": "https://img.freepik.com/fotos-gratis/a-paisagem-bonita-do-sol-da-praia-com-um-barco_1112-212.jpg?w=2000",
+                    "correct_answer_index": 1,
+                    "question_text": "Pergunta de UI 01",
+                    "banner_image": "https://img.freepik.com/fotos-gratis/a-paisagem-bonita-do-sol-da-praia-com-um-barco_1112-212.jpg?w=2000",
                     "answers": [
                         "Resposta 01",
                         "Resposta 02",
@@ -36,8 +36,8 @@
     ],
     "profile": {
         "name": "Joãozinho da Costa",
-        "profileImage": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+        "profile_image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
         "email": "joaozinho@ejpixel.com.br",
-        "passwordChangedDate": null
+        "password_changed_date": null
     }
 }
