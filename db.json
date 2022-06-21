@@ -9,7 +9,8 @@
         "bannerImage": "https://sujeitoprogramador.com/wp-content/uploads/2020/12/uiDesign-1.png",
         "questionsCount": 10,
         "difficulty": "easy",
-        "isAnswered": true
+        "isAnswered": true,
+        "tag": "design"
       }
     ],
     "questions": [
